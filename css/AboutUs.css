@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
-    background: url("../Images/5n.png") center center no-repeat;
+    background: url("images/5n.png") center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;  
